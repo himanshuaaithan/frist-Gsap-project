@@ -114,3 +114,17 @@ body{
     font-size: 100px;
 }
 
+@media (max-width:400px ) {
+
+    html,body{
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .main{
+        height: 100%;
+        width: 100%;
+    }
+
+}
+
